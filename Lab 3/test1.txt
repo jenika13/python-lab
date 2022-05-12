@@ -1,0 +1,9 @@
+HTML is a markup language.
+Python is a programming language.
+PHP is a scripting language.
+Java is a programming language.
+Javascript is a programming language.
+Bootstrap is a css framework.
+MySql is a relational database management system.
+Django is a python based framework.
+Angular is a tyescript based framework.
